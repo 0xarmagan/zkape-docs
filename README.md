@@ -6,6 +6,6 @@ Zero knowledge teknolojisi hakkında Türkçe bülten zkApe'in tüm sayılarına
 
 Desteklemek için;
 
-Gitcoin: https://gitcoin.co/grants/3372/zkape-turkish-newsletter-about-zeroknowledge
-ETH: 0xa053473DDa59994682F8e96990ffc36aa982782b
-ZEC: t1Pd2EWTzWaAyftfGUKC9zD9m6QEQwvjNa4
+* Gitcoin: https://gitcoin.co/grants/3372/zkape-turkish-newsletter-about-zeroknowledge
+* ETH: 0xa053473DDa59994682F8e96990ffc36aa982782b
+* ZEC: t1Pd2EWTzWaAyftfGUKC9zD9m6QEQwvjNa4
